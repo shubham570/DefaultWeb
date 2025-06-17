@@ -4,3 +4,5 @@ Hi, This is a very critical info that needs to go into amend commit. Kindly hand
 Commit #2 for understanding squash and merge changes
 
 Commit #3 for understanding squash and merge changes
+
+Commit #4 for understanding squash and merge changes
