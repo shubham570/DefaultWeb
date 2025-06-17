@@ -1,1 +1,4 @@
 Hi, This is a very critical info that needs to go into amend commit. Kindly handle this with more precision.
+
+
+Commit #2 for understanding squash and merge changes
