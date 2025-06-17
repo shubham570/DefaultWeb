@@ -6,3 +6,9 @@ Commit #2 for understanding squash and merge changes
 Commit #3 for understanding squash and merge changes
 
 Commit #4 for understanding squash and merge changes
+
+Commit #5 for ResetActivity 
+
+Commit #6 for ResetActivity
+
+Commit #7 for Deceloper-1
